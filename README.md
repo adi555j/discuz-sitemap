@@ -1,4 +1,4 @@
-# discuz-sitemap
+# discuz-sitemap <br />
 this is a basic xml sitemap generator for disquz!. I have tested it in early 2015. 
 
 It can now generate xml file sitemap.xml .
